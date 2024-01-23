@@ -45,34 +45,7 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--IRIS);
-    margin: 76px;
  }
- /* HW7 */
-.logo { color: var(--IRIS, #4D5AE5);
-font-family: Raleway;
-font-size: 18px;
-font-style: normal;
-font-weight: 800;
-line-height: 21px; /* 116.667% */
-letter-spacing: 0.54px;
-text-transform: uppercase;
-width: 44px;
-}
-.inside-logo {
-color: var(--NAVY-BLUE, #2E2F42);
-font-family: Raleway;
-font-size: 18px;
-font-style: normal;
-font-weight: 800;
-line-height: 21px; /* 116.667% */
-letter-spacing: 0.54px;
-text-transform: uppercase;
-}
-.three-bars {
-width: 32px;
-height: 22px;
-flex-shrink: 0;
-}
 
  /* HW5 */
  .active.link {
@@ -95,7 +68,9 @@ flex-shrink: 0;
  img {
     display: block;
  }
-
+ .logo{
+    margin: 76px;
+ }
  .link {
     text-decoration: none;
  }

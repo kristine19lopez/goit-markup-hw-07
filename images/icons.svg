@@ -263,16 +263,4 @@ xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fi
 <symbol id="check" viewBox="0 0 13 10">
         <path d="M1.95703 4.75166L1.88825 4.68604L1.81923 4.75141L0.93123 5.59258L0.854858 5.66492L0.930974 5.73753L4.42671 9.07236L4.49574 9.1382L4.56476 9.07236L12.069 1.91352L12.1449 1.84116L12.069 1.76881L11.1873 0.927644L11.1183 0.861826L11.0493 0.927611L4.49577 7.17353L1.95703 4.75166Z"/>
     </symbol>
-
-    <!-- HW7 -->
-    <symbol id=class"hum" xmlns="http://www.w3.org/2000/svg" width="32" height="22" viewBox="0 0 32 22">
-  <g clip-path="url(#clip0_297053_2156)">
-    <path d="M1.34766 20.0431H30.8861M1.34766 10.7354H30.8861M1.34766 1.42773H30.8861" stroke="#2E2F42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  </g>
-  <defs>
-    <clipPath id="clip0_297053_2156">
-      <rect width="32" height="22" />
-    </clipPath>
-  </defs>
-</symbol>
 </svg>
